@@ -19,3 +19,6 @@ uploads folder, and save only the filename in the avatar column.
 
 5. Display each user's prepared avatar or thumbnail on the User Accounts listing page (fall back to a placeholder image if
 none was uploaded).
+
+
+Project now hosted at: https://geniepos.infinityfreeapp.com/
